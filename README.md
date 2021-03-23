@@ -1,4 +1,4 @@
 # Netflix
-Clone da pagina Netflix 
+Clone da pagina Netflix <br>
 Recriei uma pagina da netflix ultilizando html5, css e javascript
 
